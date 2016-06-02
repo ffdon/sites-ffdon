@@ -13,4 +13,4 @@ ist das Build-Script in ein eigenes Repo
 ausgelagert.
 
 
-Die Domaene-12 ist spare
+Die Domaene-18 ist spare
