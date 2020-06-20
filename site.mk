@@ -15,7 +15,6 @@ GLUON_FEATURES := \
 	mesh-vpn-tunneldigger \
 	radvd \
 	respondd \
-        gluon-alfred \
 	status-page \
 	web-advanced \
 	web-wizard \
