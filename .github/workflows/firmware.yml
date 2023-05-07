@@ -4,8 +4,8 @@ name: Build ffdon firmware
 on:
   workflow_dispatch:
   push:
-    tags:
-      - v*
+    # tags:
+    #   - v*
   pull_request:
     paths-ignore:
       - "**.md"
